@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Languages: PT/EN](https://img.shields.io/badge/Languages-PT%20%7C%20EN-blue)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/filipecastanheira-rgb/cybersecurity-guide-pme-)
+
 # 🛡️ Guia de Cibersegurança para Micro e Pequenas Empresas  
 **Cybersecurity Guide for Small and Micro Businesses**
 
